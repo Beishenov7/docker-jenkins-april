@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: hello-world
-    image: kaizenacademy/hello-world:1.0
+    image: beishenov7/hello-world:1.0
